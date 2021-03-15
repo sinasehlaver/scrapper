@@ -1,2 +1,3 @@
-# scrapper
+# Scrapper
  
+Scrappy try-out projects.
